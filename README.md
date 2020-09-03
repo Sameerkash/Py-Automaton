@@ -17,12 +17,12 @@
 
  **Check List**
 
- [x] Unzip zip file, delete zip file and open the unzipped folder
- [x] Sort .jpg, .png, .jpeg, .webp into images folder 
- [x] Sort .pdf, .doc, .docx into Documents folder
- [ ] Run process in background
- [ ] Run on windows startup 
- [ ] Add Regular expression support
- [ ] Add GUI with custom path input 
+- [x] Unzip zip file, delete zip file and open the unzipped folder
+- [x] Sort .jpg, .png, .jpeg, .webp into images folder 
+- [x] Sort .pdf, .doc, .docx into Documents folder
+- [ ] Run process in background
+- [ ] Run on windows startup 
+- [ ] Add Regular expression support
+- [ ] Add GUI with custom path input 
   
 
