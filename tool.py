@@ -61,9 +61,9 @@ while not done:
                             obj.extractall(
                                 path + '\\' + new_files[i + exten][:-4])
                             obj.close()
-                            open_folder(new_files[i + exten][:-4])
-                            time.sleep(5)
-                            os.remove(path + '\\' + new_files[i + exten])
+                            open_folder(new_files[i + exten][:-4])  # Comment this line to stop the file explorer from opening
+                            time.sleep(15)
+                            os.remove(path + '\\' + new_files[i + exten]) # Comment this line to remove the unzip folder 
 
                         except:
                             print(new_files[i + exten])
