@@ -26,3 +26,8 @@
 - [ ] Add GUI with custom path input 
   
 
+##### Feel free to contribute! 
+* 🍴 
+* 👩‍💻
+* ⬆  
+
