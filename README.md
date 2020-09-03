@@ -3,7 +3,7 @@
 ## Automating the boring stuff using python 
 
 
- **Do you donwload  code from github for code refernce but have to unzip all the time? Do you download images but can't find it in your messy downloads folder? Can't find documents either? Well, you are at the right place! Chekout Automaton, a python script to automate all these boring tasks** 
+ **Do you donwload  code from github for code reference but have to unzip all the time? Do you download images but can't find it in your messy downloads folder? Can't find documents either? Well, you are at the right place! Chekout Automaton, a python script to automate all these boring tasks** 
 
 
  **Build from soruce**
