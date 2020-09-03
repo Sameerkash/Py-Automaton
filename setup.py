@@ -2,7 +2,7 @@ from cx_Freeze import setup, Executable
 
 base = None    
 
-executables = [Executable("unzip.py", base=base)]
+executables = [Executable("tool.py", base=base)]
 
 packages = ["idna"]
 options = {
