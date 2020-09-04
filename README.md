@@ -10,7 +10,7 @@
 
  * Make sure you replace the path according to your downloads folder and  and operating system.
  * Make sure Documents and images exist in the Downloads `path`
- * Run `python setup.py build_exe` and you have your .exe     (build according to OS)
+ * Run `pyinstaller --noconsole tool.py` and you have your .exe     (build according to OS)
  * Run the exe and see the magic!
 
 

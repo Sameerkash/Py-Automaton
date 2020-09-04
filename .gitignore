@@ -1,2 +1,5 @@
 .vscode
 build
+dist
+tool.spec
+__pycache__
