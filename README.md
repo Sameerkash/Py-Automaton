@@ -12,6 +12,7 @@
  * Make sure Documents and images exist in the Downloads `path`
  * Run `pyinstaller --noconsole tool.py` and you have your .exe     (build according to OS)
  * Run the exe and see the magic!
+ * Open `shell:startup` and add a shortucut to exe in the folder to start the process with Windows startup
 
 
 
